@@ -1,0 +1,13 @@
+body{
+    background: url("hamza.jpg") center fixed ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+p{
+    font-size: xx-large;
+    color: white;  
+}
+a{
+    font-size: large;
+    color: cyan;
+}
